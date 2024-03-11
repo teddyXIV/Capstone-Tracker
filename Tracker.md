@@ -5,3 +5,4 @@
     * Working on React refresher
     * CSS & Styling lesson
     * Components lesson
+    * "children" prop lesson
