@@ -7,3 +7,4 @@
     * Components lesson
     * "children" prop lesson
     * state management lesson
+    * outputting list data lesson
