@@ -13,4 +13,4 @@
     * Completed the react refresher course
 #### Udemy continued (3/12)
 * NextJS Essentials course
-    
+ * First 10 lessons
