@@ -14,3 +14,4 @@
 #### Udemy continued (3/12)
 * NextJS Essentials course
  * First 10 lessons
+ * Lessons 11-17
