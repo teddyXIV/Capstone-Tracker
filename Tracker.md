@@ -10,3 +10,4 @@
     * outputting list data lesson
     * useEffect hook lesson
     * Linking and navigating lesson 
+    * Completed the react refresher course
