@@ -15,3 +15,4 @@
 * NextJS Essentials course
  * First 10 lessons
  * Lessons 11-17
+ * starting after whiteboarding 
