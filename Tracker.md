@@ -23,5 +23,9 @@
 * Leetcode warm up and scrum
 * Pages and File Based Routing Section
     * Completed section
+* Adding Backend Code with API Routes Section
+    * Completed section. Most things covered by previous NextJS essentials course
+    
+
     
 
