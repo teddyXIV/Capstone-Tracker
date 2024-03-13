@@ -25,6 +25,8 @@
     * Completed section
 * Adding Backend Code with API Routes Section
     * Completed section. Most things covered by previous NextJS essentials course
+* Deploying NextJS apps
+    * Completed Deployment lesson
     
 
     
