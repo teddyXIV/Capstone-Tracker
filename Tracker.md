@@ -27,6 +27,8 @@
     * Completed section. Most things covered by previous NextJS essentials course
 * Deploying NextJS apps
     * Completed Deployment lesson
+* Capstone planning and research
+    * Researching tech stack: Mapbox vs ArcGis API
     
 
     
