@@ -18,3 +18,4 @@
  * starting after whiteboarding 
  * A bunch more lessons
  * still more lesson D:
+ * done. 48 lessons
