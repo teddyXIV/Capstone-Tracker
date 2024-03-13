@@ -13,9 +13,14 @@
     * Completed the react refresher course
 #### Udemy continued (3/12)
 * NextJS Essentials course
- * First 10 lessons
- * Lessons 11-17
- * starting after whiteboarding 
- * A bunch more lessons
- * still more lesson D:
- * done. 48 lessons
+    * First 10 lessons
+    * Lessons 11-17
+    * starting after whiteboarding 
+    * A bunch more lessons
+    * still more lesson D:
+    * done. 48 lessons
+### Udemy continued (3/13)
+* Leetcode warm up and scrum
+* Pages and File Based Routing Section
+    
+
