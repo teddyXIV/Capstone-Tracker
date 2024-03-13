@@ -19,8 +19,9 @@
     * A bunch more lessons
     * still more lesson D:
     * done. 48 lessons
-### Udemy continued (3/13)
+#### Udemy continued (3/13)
 * Leetcode warm up and scrum
 * Pages and File Based Routing Section
+    * Completed section
     
 
