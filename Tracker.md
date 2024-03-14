@@ -32,6 +32,7 @@
 #### New portfolio (3/14)
 * Leetcode warm up and scrum
 * Capstone sign up 
+* Portfolio designing 
     
 
     
