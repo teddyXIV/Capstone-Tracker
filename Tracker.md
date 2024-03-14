@@ -29,6 +29,9 @@
     * Completed Deployment lesson
 * Capstone planning and research
     * Researching tech stack: Mapbox vs ArcGis API
+#### New portfolio (3/14)
+* Leetcode warm up and scrum
+* Capstone sign up 
     
 
     
