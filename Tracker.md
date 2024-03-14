@@ -33,6 +33,7 @@
 * Leetcode warm up and scrum
 * Capstone sign up 
 * Portfolio designing 
+* Forgetting to commit, portfolio WIP
     
 
     
